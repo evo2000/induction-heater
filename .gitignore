@@ -1,2 +1,6 @@
 # For Mac
 *.DS_Store
+
+# For LTspice
+*.log
+*.raw
